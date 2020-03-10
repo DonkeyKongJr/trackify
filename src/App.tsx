@@ -4,6 +4,7 @@ import Menu from 'antd/es/menu';
 
 import './App.css';
 import TrackTable from './TrackTable';
+import AddTrackRows from './AddTrackRows';
 
 const { Header, Content, Footer } = Layout;
 
@@ -24,6 +25,7 @@ class App extends Component {
         </Header>
         <Content style={{ padding: '50px 50px' }}>
           <div className="site-layout-content">
+            <AddTrackRows />
             <TrackTable />
           </div>
         </Content>

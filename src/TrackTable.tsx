@@ -4,7 +4,7 @@ import Table from 'antd/es/table';
 const dataSource = [
   {
     key: '1',
-    nickname: 'IS',
+    nickname: 'XY',
     date: new Date().toLocaleDateString(),
     from: '10:10',
     to: '10:20',
@@ -12,7 +12,7 @@ const dataSource = [
   },
   {
     key: '2',
-    nickname: 'IS',
+    nickname: 'XY',
     date: new Date().toLocaleDateString(),
     from: '11:10',
     to: '11:20',
@@ -20,7 +20,7 @@ const dataSource = [
   },
   {
     key: '3',
-    nickname: 'IS',
+    nickname: 'XY',
     date: new Date().toLocaleDateString(),
     from: '12:10',
     to: '12:20',
@@ -28,7 +28,7 @@ const dataSource = [
   },
   {
     key: '4',
-    nickname: 'IS',
+    nickname: 'XY',
     date: new Date().toLocaleDateString(),
     from: '13:10',
     to: '13:20',
@@ -36,7 +36,7 @@ const dataSource = [
   },
   {
     key: '5',
-    nickname: 'IS',
+    nickname: 'XY',
     date: new Date().toLocaleDateString(),
     from: '14:10',
     to: '14:20',
